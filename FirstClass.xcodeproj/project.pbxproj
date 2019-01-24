@@ -57,9 +57,17 @@
 		6A08188221FA0E6C00CBD889 /* FirstClass */ = {
 			isa = PBXGroup;
 			children = (
-				6A08188A21FA0FA300CBD889 /* Runner.cpp */,
+				6A08188C21FA105900CBD889 /* Controller */,
 			);
 			path = FirstClass;
+			sourceTree = "<group>";
+		};
+		6A08188C21FA105900CBD889 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				6A08188A21FA0FA300CBD889 /* Runner.cpp */,
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -6,4 +6,9 @@
 //  Copyright © 2019 CTEC. All rights reserved.
 //
 
-
+int main()
+{
+    
+    
+    return 0;
+}
