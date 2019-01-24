@@ -16,4 +16,5 @@ Controller :: Controller()
 void Controller :: start()
 {
     cout << "This is in the start method" << endl;
+    cout << "Here is the class number: " << specialNumber << " Ithink it is really cool!" << endl;
 }
