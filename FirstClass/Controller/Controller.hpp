@@ -9,6 +9,6 @@
 #ifndef Controller_hpp
 #define Controller_hpp
 
-#include <stdio.h>
+#include <iostream>
 
 #endif /* Controller_hpp */
