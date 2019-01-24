@@ -8,8 +8,14 @@
 #include "Controller.hpp"
 int main()
 {
-    Controller myFirstController;
-    myFirstController.start();
+//    Controller myFirstController;
+//    myFirstController.start();
+    
+    
+    
+    //Pointer version
+    Controller * myPointer = new Controller();
+    myPointer->start();
     
     return 0;
 }
