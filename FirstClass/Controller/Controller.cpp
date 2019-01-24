@@ -7,3 +7,13 @@
 //
 
 #include "Controller.hpp"
+
+Controller :: Controller()
+{
+    
+}
+
+void Controller :: start()
+{
+    cout << "This is in the start method" << endl;
+}

@@ -10,6 +10,7 @@
 #define Controller_hpp
 
 #include <iostream>
+using namespace std; //lets me get access to keywords like "cin" and "cout"
 
 class Controller
 {
