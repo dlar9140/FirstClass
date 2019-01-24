@@ -10,11 +10,11 @@
 
 Controller :: Controller()
 {
-    
+    this->specialNumber = 4527;
 }
 
 void Controller :: start()
 {
     cout << "This is in the start method" << endl;
-    cout << "Here is the class number: " << specialNumber << " Ithink it is really cool!" << endl;
+    cout << "Here is the class number: " << specialNumber << " Ithink it is really cool!" << endl;  //always end these output statements with "endl". 
 }
